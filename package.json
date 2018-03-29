@@ -1,15 +1,13 @@
 {
   "name": "img-small",
   "main": "./lib/img-small",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Make images smaller (240px in height) in both syntax and preview view.",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/moyicat/inkdrop-img-small",
   "license": "MIT",
   "engines": {
     "inkdrop": ">=3.7.3 <4.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
